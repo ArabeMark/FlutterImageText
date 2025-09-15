@@ -52,7 +52,7 @@ class MyHomePage extends StatelessWidget {
                   'awaited face-off. Once the match commences, the two teams waste no time\n'
                   'entering into an intense and fast-paced rally. Tension rises as both teams\n'
                   'are determined to come out victoriously. ',
-                textAlign: TextAlign.center,
+              textAlign: TextAlign.center,
               style: TextStyle(fontSize: 15, fontWeight: FontWeight.w800),
             ),
           ],
